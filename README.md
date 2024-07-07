@@ -2,6 +2,6 @@
 Realtime Actions Language Model (RALM) with Dataset    [JAJA]
 
 
-#Opencv
+[Open-cv]
 pip install opencv-python
 
