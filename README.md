@@ -27,5 +27,5 @@ To install RALM, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/RALM.git
+   git clone https://github.com/XevilA/RALM.git
    cd RALM
